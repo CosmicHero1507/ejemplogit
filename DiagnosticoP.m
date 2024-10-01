@@ -16,3 +16,5 @@ plot(a2x1,a2x2,"o"),
 line(x,y,'Color','red'), xlim([65, 210]), ylim([90, 210]), xlabel('x1'), ylabel('x2'), grid minor, axis square
 
 hold off
+
+% Comentario para github
